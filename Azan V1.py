@@ -78,8 +78,8 @@ def add_to_startup():
 
 # 6. التحقق من التحديثات على GitHub
 def check_for_updates():
-    repo_owner = "your_github_username"  # استبدل باسم مستخدم GitHub الخاص بك
-    repo_name = "your_repo_name"  # استبدل باسم المستودع الخاص بك
+    repo_owner = "darshma"  # استبدل باسم مستخدم GitHub الخاص بك
+    repo_name = "Azan"  # استبدل باسم المستودع الخاص بك
     current_version = "1.0.0"  # الإصدار الحالي للبرنامج
 
     try:
